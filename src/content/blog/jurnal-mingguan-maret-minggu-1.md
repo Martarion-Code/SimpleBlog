@@ -54,16 +54,21 @@ Ini adalah draf jurnal harian dan mingguan yang disusun berdasarkan dinamika jad
 * **Hasil:** Keseimbangan antara kerja dan hubungan sosial tercapai.
 * **Skor Produktivitas:** 8/10
 
-#### **Sabtu, 07 Maret 2026 (Focus Day)**
+#### **Sabtu, 07 Maret 2026**
 
-* **Target:** Skripsi LSTM (Elite), Running, Book Party.
+* **Target:** Deep Dive Seq2Seq LSTM (Skripsi), Networking Social, Bukber Keluarga.
 * **Aktivitas:**
-* 08.00–11.00 | Deep Work: Skripsi LSTM | Eksperimen model Bab 3 | ✓
-* 16.00–17.30 | Running | Lari mingguan 5km | ✓
-* 19.00–21.00 | Community: Book Party | Networking & Insight | ✓
 
+| Waktu | Aktivitas | Output yang Dihasilkan | Status |
+| :--- | :--- | :--- | :---: |
+| 09.00–12.00 | Deep Work: Skripsi | Paham konsep & implementasi Seq2Seq LSTM | ✓ |
+| 14.00–16.00 | Reading Time | Baca buku fiksi (Mental recharge) | ✓ |
+| 16.30–20.00 | Networking Social | Membangun koneksi & kualitas interaksi sosial | ✓ |
+| 18.00–20.30 | Social: Bukber | Bukber keluarga (Quality time) | ✓ |
 
-* **Hasil:** Progres skripsi paling signifikan terjadi hari ini.
+* **Hasil yang Dicapai:** Progres teknis skripsi tercapai, sekaligus menjaga social skill dan hubungan keluarga melalui interaksi yang berkualitas.
+* **Kendala:** Transisi dari fokus koding yang intens ke interaksi sosial butuh penyesuaian mental (context-switching).
+* **Refleksi:** Networking social melalui Bukber keluarga mengingatkan pentingnya menjaga sisi manusiawi di tengah ambisi menjadi Tech Lead.
 * **Skor Produktivitas:** 10/10
 
 #### **Minggu, 08 Maret 2026 (Recovery)**
@@ -106,32 +111,32 @@ Ini adalah draf jurnal harian dan mingguan yang disusun berdasarkan dinamika jad
 ### 2️⃣ TEMPLATE JOURNAL MINGGUAN (MINGGU KE-1 MARET)
 
 **1. Ringkasan Aktivitas**
-| Hari | Fokus Aktivitas | Output | Durasi |
-| :--- | :--- | :--- | :--- |
-| **Senin** | Work & Skripsi | Target harian & Dataset ML | 10 Jam |
-| **Selasa** | Work & AI Skill | Feature Opsguide & Arsitektur | 9 Jam |
-| **Rabu** | Work & Bootcamp | Feature Opsguide & Modul Ajar | 10 Jam |
-| **Kamis** | Bootcamp & Work | Sesi Bootcamp & 6 jam kerja | 9 Jam |
-| **Jumat** | Bootcamp & Social | Sesi Bootcamp & Relasi | 8 Jam |
-| **Sabtu** | Skripsi & Running | Model LSTM & Kebugaran | 7 Jam |
-| **Minggu** | Recovery | Planning & Reading | 3 Jam |
+| Hari | Fokus Aktivitas | Output | Durasi (jam) |
+| :--- | :--- | :--- | :---: |
+| **Senin** | Work & Skripsi | Target harian & Dataset ML | 10 |
+| **Selasa** | Work & AI Skill | Feature Opsguide & Arsitektur | 9 |
+| **Rabu** | Work & Bootcamp | Feature Opsguide & Modul Ajar | 10 |
+| **Kamis** | Bootcamp & Work | Sesi Bootcamp & 6 jam kerja | 9 |
+| **Jumat** | Bootcamp & Social | Sesi Bootcamp & PES Night | 8 |
+| **Sabtu** | Skripsi & Social Networking | Seq2Seq LSTM & Bukber Keluarga | 9 |
+| **Minggu** | Recovery | Planning & Reading | 3 |
 
 **2. Capaian Minggu Ini**
 
-* ✔ Target kerja Opsguide 6-7 jam/hari terpenuhi secara konsisten.
-* ✔ Progres eksperimen model LSTM untuk Skripsi meningkat.
-* ✔ Konsistensi Gym (3 sesi sejauh ini) dan Running 1x.
+* ✔ Konsistensi Profesional: Target kerja Opsguide 6-7 jam/hari aman.
+* ✔ Progres Akademik: Lompatan pemahaman pada arsitektur Seq2Seq LSTM.
+* ✔ Social Life: Networking sosial yang kuat melalui teman kantor dan keluarga.
+* ✔ Self-Growth: Menjaga kebiasaan membaca meski jadwal sangat padat.
 
-**3. Progress Target Semester**
+**3. Progress terhadap Target Semester**
 
-* **Target:** Selesai Skripsi LSTM & Upgrade Skill AI Engineer.
-* **Progress:** 45% (Sedang dalam tahap eksperimen model).
+* **Target Semester:** Selesai Skripsi & Persiapan Karir AI Engineer/CTO.
+* **Progress saat ini:** 47%
+* **Keterangan:** Fokus minggu depan adalah mulai mengimplementasikan koding Seq2Seq ke dataset asli.
 
 **4. Kendala Mingguan**
 
-* **Akademik:** Pemahaman matematika di LSTM cukup kompleks.
-* **Teknis:** Training model ML memakan waktu resource lokal.
-* **Pribadi:** Manajemen energi setelah ngajar bootcamp malam.
+* **Manajemen Waktu:** Sulit menyisipkan waktu lari di tengah jadwal yang padat.
 
 **5. Evaluasi Diri**
 
