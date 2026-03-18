@@ -1,3 +1,9 @@
+---
+title: 'Jurnal Harian & Mingguan - Minggu Ke-2 Maret 2026'
+description: 'Jurnal aktivitas minggu kedua sebagai developer, pengajar bootcamp, dan mahasiswa tingkat akhir — fokus eksekusi skripsi Seq2Seq dan konsistensi fisik.'
+pubDate: 'Mar 17 2026'
+heroImage: '../../assets/blog-placeholder-2.jpg'
+---
 
 Ini adalah draf jurnal harian dan mingguan untuk minggu kedua, melanjutkan ritme jadwalku sebagai *developer*, pengajar bootcamp, dan fokus eksekusi skripsi.
 
