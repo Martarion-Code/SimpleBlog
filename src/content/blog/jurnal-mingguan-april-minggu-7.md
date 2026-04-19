@@ -2,7 +2,7 @@
 title: 'Jurnal Harian & Mingguan - Minggu Ke-7 April 2026'
 description: 'Jurnal aktivitas harian dan mingguan: Persiapan simulasi sidang skripsi, implementasi framework Project Management, dan eksplorasi System Design.'
 pubDate: 'Apr 19 2026'
-heroImage: '../../assets/blog-placeholder-7.jpg'
+heroImage: '../../assets/blog-placeholder-4.jpg'
 ---
 
 Ini adalah draf jurnal untuk minggu ketujuh, disesuaikan agar alurnya rapi dari Senin (13 April) hingga Minggu (19 April). Fokus minggu ini mematangkan persiapan presentasi skripsi, transisi peran kepemimpinan teknis di Opsguide, serta eksplorasi *System Design*.
