@@ -25,7 +25,7 @@ Ini adalah draf jurnal untuk minggu ketujuh, disesuaikan agar alurnya rapi dari 
     * 08.30–16.30 | Work: Opsguide | *Daily standup* & eksekusi *task* | ✓
     * 17.00–18.30 | Gym Sesi 1 | *Leg day* | ✓
 * **Hasil:** Memulai minggu dengan kuat. Revisi skripsi beres dan dikirim ke dosen.
-* **Skor Produktivitas:** 9/10
+* **Skor Produktivitas:** 8/10
 
 #### **Selasa, 14 April 2026 (Tech Leadership)**
 * **Target:** Work 7 jam, Slide Presentasi Skripsi, Gym Sesi 2.
