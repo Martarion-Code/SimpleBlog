@@ -2,7 +2,7 @@
 title: 'Jurnal Harian & Mingguan - Minggu Ke-8 April 2026'
 description: 'Jurnal aktivitas harian dan mingguan: Eksekusi Sidang Skripsi, Implementasi Kanban Opsguide, dan Praktik Microservices.'
 pubDate: 'Apr 28 2026'
-heroImage: '../../assets/blog-placeholder-8.jpg'
+heroImage: '../../assets/blog-placeholder-4.jpg'
 ---
 
 Ini adalah draf jurnal untuk minggu kedelapan (20 - 26 April 2026). Minggu ini adalah salah satu *milestone* terbesar semester ini: eksekusi sidang/seminar hasil skripsi, keberhasilan menerapkan inisiatif manajerial di kantor, dan mulai praktik langsung *System Design*.
